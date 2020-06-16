@@ -22,7 +22,7 @@ function varargout = LeukemiaDetection(varargin)
 
 % Edit the above text to modify the response to help LeukemiaDetection
 
-% Last Modified by GUIDE v2.5 16-Dec-2018 15:44:56
+
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
